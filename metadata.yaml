@@ -1,0 +1,34 @@
+_repo: The-Oak-Shade-or-Records-of-a-Village-Literary-Association_67605
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Eugene, Maurice
+    gutenberg_agent_id: '54357'
+    url: http://www.gutenberg.org/2009/agents/54357
+description: ''
+gutenberg_issued: '2022-03-11'
+identifiers:
+  gutenberg: '67605'
+  lccn: 06038142
+language: en
+pgterms:marc904: https://archive.org/details/oakshadeorrecord00euge/page/n8/mode/2up
+pgterms:marc905: 20200515142355eugene
+pgterms:marc906: '1855'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Willis P. Hazzard,1855.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Dedication -- Preface -- Hans Dundermann: the Dutch miser -- The
+  wisdom of preserving moderation in our wishes -- The sick mother -- The excellencies
+  of lying -- The alchemist; or, the magic funnel -- The beauty of a well cultivated
+  heart -- The dream of a loafer -- Conclusion.'
+title: The Oak Shade, or, Records of a Village Literary Association
+url: http://www.gutenberg.org/ebooks/67605
