@@ -1,11 +1,16 @@
 _repo: The-Oak-Shade-or-Records-of-a-Village-Literary-Association_67605
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67605-h/images/cover.jpg
 creator:
   editor:
     agent_name: Eugene, Maurice
     gutenberg_agent_id: '54357'
     url: http://www.gutenberg.org/2009/agents/54357
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67605#The-Oak-Shade-or-Records-of-a-Village-Literary-Association
 gutenberg_issued: '2022-03-11'
 identifiers:
   gutenberg: '67605'
